@@ -1,0 +1,125 @@
+{
+  "Financial Literacy": {
+    "Overview": {
+      "title": "What is Financial Literacy?",
+      "content": [
+        "Financial literacy is the ability to use knowledge and skills to manage financial resources effectively.",
+        "It empowers individuals to make sound financial decisions throughout their lives.",
+        "It is accessible to anyone, regardless of education level."
+      ],
+      "summary": "Financial literacy enables lifelong financial well-being through informed money management."
+    },
+    "Earning Money": {
+      "title": "EARN: Sources of Income",
+      "content": [
+        "Earning involves generating money through employment, business, or investments.",
+        "Encourage developing values like honesty, discipline, and goal setting.",
+        "Identify ways of earning based on your profession or skillset."
+      ],
+      "summary": "Understanding income sources helps build a strong foundation for financial growth."
+    },
+    "Spending Wisely": {
+      "title": "SPEND: Managing Expenses",
+      "content": [
+        "Manage your money by creating a personal budget and not living beyond your means.",
+        "Differentiate between needs and wants (necessities vs. luxuries).",
+        "Budgeting gives you control over your money and enables goal setting."
+      ],
+      "summary": "Effective spending requires discipline and understanding your financial habits."
+    },
+    "Budgeting Basics": {
+      "title": "SPEND: Budgeting Strategies",
+      "content": [
+        "Track your expenses monthly and categorize fixed vs. variable costs.",
+        "Add savings into your budget — 'Pay yourself first.'",
+        "A good budget plan helps reduce debt and aligns with short- and long-term goals."
+      ],
+      "summary": "A successful budget plan is realistic, honest, and adaptable."
+    },
+    "Saving & Investing": {
+      "title": "SAVE & INVEST: Building Wealth",
+      "content": [
+        "Start saving with small, consistent contributions — e.g., P100 per week.",
+        "Set goals: emergency fund (3+ months of expenses), retirement, big purchases.",
+        "Investing grows your money through compound interest, property, or low-risk funds."
+      ],
+      "summary": "Saving and investing early unlock long-term financial security."
+    },
+    "Borrowing": {
+      "title": "BORROW: Using Debt Wisely",
+      "content": [
+        "Debt is money you spend that isn’t yours — understand good vs. bad debt.",
+        "Good debt helps you build value (education, business, property).",
+        "Bad debt involves high-interest, short-term items with no lasting value.",
+        "Match loan purpose to duration (short-term vs. long-term loans)."
+      ],
+      "summary": "Borrow only when necessary and with a clear repayment plan."
+    },
+    "Protecting Assets": {
+      "title": "PROTECT: Financial Security",
+      "content": [
+        "Protect your finances by monitoring accounts and securing personal info.",
+        "Avoid scams and identity theft by practicing safe digital habits.",
+        "Use insurance to safeguard against emergencies or unexpected losses."
+      ],
+      "summary": "Financial protection is just as important as earning and saving."
+    },
+    "Improving Literacy": {
+      "title": "ACTIVITY: Improving Financial Literacy Now",
+      "content": [
+        "Create and stick to a monthly budget.",
+        "Start or grow your emergency fund.",
+        "Make a retirement plan.",
+        "Create a strategy to eliminate debt.",
+        "Explore ways to earn alternative income."
+      ],
+      "summary": "Start with small, practical steps to improve your financial skills today."
+    },
+    "The Value of Money": {
+      "title": "Understanding the Value of Money",
+      "content": [
+        "Money is a medium of exchange for goods and services and stores value.",
+        "It has evolved from barter systems to digital currency today.",
+        "Understanding its value helps in making responsible financial choices."
+      ],
+      "summary": "The better you understand money, the better you can manage it."
+    },
+    "Types of Income": {
+      "title": "Types of Income",
+      "content": [
+        "- **Earned Income**: Salary, wages, commissions.",
+        "- **Portfolio Income**: Profits from investments (stocks, real estate).",
+        "- **Passive Income**: Royalties, rentals, business ownership with little daily involvement."
+      ],
+      "summary": "Diversifying your income sources can improve financial resilience."
+    },
+    "Needs vs Wants": {
+      "title": "Needs vs. Wants",
+      "content": [
+        "Needs are essential for survival: food, housing, healthcare.",
+        "Wants enhance life but are not essential: designer clothes, luxury trips.",
+        "Identifying them helps control impulsive spending."
+      ],
+      "summary": "Separate needs and wants to build a sustainable financial lifestyle."
+    },
+    "Short-Term vs Long-Term Planning": {
+      "title": "Short-Term vs Long-Term Financial Planning",
+      "content": [
+        "Short-term goals: Saving for a phone, clearing monthly bills.",
+        "Long-term goals: Buying a house, retirement planning.",
+        "Align both in your budget to stay prepared and balanced."
+      ],
+      "summary": "Financial planning should cover both immediate needs and future dreams."
+    },
+    "Avoiding Scams": {
+      "title": "Avoiding Scams and Financial Fraud",
+      "content": [
+        "Be cautious with unsolicited investment offers or job schemes.",
+        "Never share PINs or passwords with anyone.",
+        "Use official channels and report suspicious activity immediately."
+      ],
+      "summary": "Awareness is your best protection against financial fraud."
+    }
+  }
+}
+

@@ -4,6 +4,29 @@ import plotly.graph_objects as go
 from datetime import datetime
 import pandas as pd
 
+from contentloader import load_content_from_json, get_categories, get_topics, get_topic_details
+
+# Dropdown to select content file
+selected_file = st.sidebar.selectbox(
+    "📂 Choose Content Source:",
+    ["civic.json", "financial.json"]
+)
+
+# Load content from the selected file
+content = load_content_from_json(selected_file)
+
+
+category = st.selectbox("Select a Category:", get_categories(content))
+topic = st.selectbox("Choose a Topic:", get_topics(content, category))
+topic_info = get_topic_details(content, category, topic)
+
+st.markdown(f"### {topic_info['title']}")
+for point in topic_info['content']:
+    st.markdown(f"- {point}")
+st.info(f"**Summary:** {topic_info['summary']}")
+
+
+
 # Page configuration
 st.set_page_config(
     page_title="Civic & Financial Education Platform",

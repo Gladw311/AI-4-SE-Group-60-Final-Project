@@ -1,0 +1,67 @@
+{
+  "Civic Education": {
+    "Understanding Citizenship": {
+      "title": "What is Citizenship?",
+      "content": [
+        "Citizenship is the status of being a recognized member of a state or nation.",
+        "A citizen enjoys rights such as voting, freedom of speech, and protection under the law.",
+        "Citizens also have responsibilities such as obeying laws, paying taxes, and participating in civic duties."
+      ],
+      "summary": "Citizenship is both a privilege and a duty that links individuals to their government."
+    },
+    "Democracy and Participation": {
+      "title": "Democracy and Participation",
+      "content": [
+        "Democracy is a system of government where power lies with the people.",
+        "Participation in democratic processes includes voting, attending public meetings, and community engagement.",
+        "Informed citizens help ensure government accountability and transparency."
+      ],
+      "summary": "Active participation makes democracy strong and representative."
+    },
+    "The Constitution": {
+      "title": "The Constitution and Rule of Law",
+      "content": [
+        "The Constitution is the supreme law of the land and outlines the structure of government.",
+        "It protects fundamental rights and freedoms of citizens.",
+        "Rule of law ensures no one is above the law, including leaders."
+      ],
+      "summary": "The Constitution ensures justice, equality, and protection for all citizens."
+    },
+    "Governance and Leadership": {
+      "title": "Governance and Leadership",
+      "content": [
+        "Governance involves the processes and institutions through which decisions are made and implemented.",
+        "Good leadership includes integrity, accountability, transparency, and service.",
+        "Citizens should evaluate leaders not by tribe, wealth, or fame but by service to the people."
+      ],
+      "summary": "Strong governance and ethical leadership drive national development."
+    },
+    "Rights and Responsibilities": {
+      "title": "Rights and Responsibilities of Citizens",
+      "content": [
+        "Rights include freedom of expression, religion, movement, and access to justice.",
+        "Responsibilities include respecting others' rights, protecting the environment, and paying taxes.",
+        "Balancing rights and responsibilities is key to peaceful coexistence."
+      ],
+      "summary": "Enjoy your rights while fulfilling your responsibilities as a citizen."
+    },
+    "Devolution and County Government": {
+      "title": "Devolution and County Government",
+      "content": [
+        "Devolution is the transfer of power and resources from the national government to counties.",
+        "Counties manage local services like health, agriculture, trade, and infrastructure.",
+        "Citizens can participate in planning and budget-making at the county level."
+      ],
+      "summary": "Devolution brings government closer to the people for better service delivery."
+    },
+    "National Values": {
+      "title": "National Values and Principles",
+      "content": [
+        "Kenya's Constitution outlines values like patriotism, social justice, human dignity, and integrity.",
+        "These guide public officers and all citizens in conduct and decision-making.",
+        "Living these values builds unity and progress."
+      ],
+      "summary": "National values are the moral compass of a united and just society."
+    }
+  }
+}
